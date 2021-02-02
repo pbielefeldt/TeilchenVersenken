@@ -33,11 +33,11 @@ __Achtung: Das ist noch gar nicht getestet; erst mal nur eine Idee!__
 Zum Beispiel könnte jede:r Spieler:in folgende Teilchen im Detektor haben:
 * 2 Elektronen (bzw. Positronen, Ladung wird beim ganzen Spiel ignoriert)
   * Spur *nur* im __E__
-  * Da sind immer *drei hintereinander liegende* und *ein* daneben liegender Block getroffen
+  * Da sind immer *drei hintereinander liegende* Blöcke getroffen
 * 2 Myonen (bzw. Anti-Myonen)
   * Hat Einträge in allen drei Subdetektoren
   * Je *ein* Eintrag in in beiden Lagen der __M__
   * Genau *je ein* Eintrag in __H__ und __E__, auf der Teilchenbahn
 * 1 Jet (hadronisches Signal)
-  * Hat immer *zwei* auf einer Spur liegende Einträge im __E__ und
-  * *Drei* Einträge im __H__
+  * Hat immer *drei* auf einer Spur liegende Einträge im __E__ und
+  * *Zwei* auf der gleichen Spur liegende Einträge im __H__
