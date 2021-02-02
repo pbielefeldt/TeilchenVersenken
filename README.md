@@ -44,6 +44,7 @@ Zum Beispiel könnte jede:r Spieler:in folgende Teilchen im Detektor haben:
   * *Zwei* auf der gleichen Spur liegende Einträge im __H__
 
 So könnte ein Spielfeld – für ein:e Spieler:in – aussehen:
+
 ![Beispiel-Spielfeld](https://raw.githubusercontent.com/pbielefeldt/TeilchenVersenken/main/det/det-01.png)
 
 Die Spuren können dabei nebeneinander liegen, aber nicht im gleichen Block (sonst wird's zu unübersichtlich).
