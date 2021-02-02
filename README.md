@@ -22,6 +22,7 @@ Diese werden zusammengefasst in
 * Hadronisches Kalorimeter (__H__ 01-16)
 * Myonenkammern (__M__ 01-16)
 
+![Spielfeld](https://raw.githubusercontent.com/pbielefeldt/TeilchenVersenken/main/det/det-00.png)
 Im Prinzip richtet sich das nach dem Design von MINERVA aus der Masterclass: http://atlas.physicsmasterclasses.org/de/wpath_teilchenid2.htm
 
 Teilchen
