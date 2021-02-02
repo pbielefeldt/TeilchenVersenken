@@ -23,6 +23,7 @@ Diese werden zusammengefasst in
 * Myonenkammern (__M__ 01-16)
 
 ![Spielfeld](https://raw.githubusercontent.com/pbielefeldt/TeilchenVersenken/main/det/det-00.png)
+
 Im Prinzip richtet sich das nach dem Design von MINERVA aus der Masterclass: http://atlas.physicsmasterclasses.org/de/wpath_teilchenid2.htm
 
 Teilchen
@@ -42,5 +43,20 @@ Zum Beispiel könnte jede:r Spieler:in folgende Teilchen im Detektor haben:
   * Hat immer *drei* auf einer Spur liegende Einträge im __E__ und
   * *Zwei* auf der gleichen Spur liegende Einträge im __H__
 
+So könnte ein Spielfeld – für ein:e Spieler:in – aussehen:
 ![Beispiel-Spielfeld](https://raw.githubusercontent.com/pbielefeldt/TeilchenVersenken/main/det/det-01.png)
+
 Die Spuren können dabei nebeneinander liegen, aber nicht im gleichen Block (sonst wird's zu unübersichtlich).
+
+Spielablauf
+-----------
+
+Immer abwechselnd sagt ein:e Mitspieler:in, welchen Block in welchem Subdetektor er/sie überprüfen möchte. 
+(Also zum Beispiel „H 10“ für den Block oben rechts im hadronischen Kalorimeter.)
+
+Falls es dort einen Eintrag gibt, sagt die/der andere Mitspieler:in das an.
+Der Ratende darf weiterraten, bis sie/er nach einem Block ohne Eintrag gefragt hat.
+Dann wird abgewechselt.
+
+Hat ein Ratender alle zu einer der fünf Spuren gehörenden Blöcke aufgedeckt, teilt die/der andere Mitspieler:in das mit.
+Wer zuerst alle fünf Spuren gefunden hat, gewinnt das Spiel
