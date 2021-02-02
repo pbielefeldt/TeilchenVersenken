@@ -41,3 +41,6 @@ Zum Beispiel könnte jede:r Spieler:in folgende Teilchen im Detektor haben:
 * 1 Jet (hadronisches Signal)
   * Hat immer *drei* auf einer Spur liegende Einträge im __E__ und
   * *Zwei* auf der gleichen Spur liegende Einträge im __H__
+
+![Beispiel-Spielfeld](https://raw.githubusercontent.com/pbielefeldt/TeilchenVersenken/main/det/det-01.png)
+Die Spuren können dabei nebeneinander liegen, aber nicht im gleichen Block (sonst wird's zu unübersichtlich).
